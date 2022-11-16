@@ -7,7 +7,7 @@ body {
     font-size: 24pt; /* Размер шрифта в пунктах */
     font-family:'Times New Roman', Times, serif;
     font-weight: normal; /* Нормальное начертание текста  */
-    aligh: "center"
+    align: "center"
   }
 
 h4 {
