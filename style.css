@@ -3,7 +3,7 @@ body {
 }
 
  h1 {
-    color: aqua; /* Цвет заголовка */
+    color: #00FF00; /* Цвет заголовка */
     font-size: 24pt; /* Размер шрифта в пунктах */
     font-family:'Times New Roman', Times, serif;
     font-weight: normal; /* Нормальное начертание текста  */
