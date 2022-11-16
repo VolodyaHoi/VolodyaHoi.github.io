@@ -2,9 +2,12 @@ body {
       background-color: #333; /* Цвет фона веб-страницы */
 }
 
-h1 {
-      color: "aqua"
-}
+ h1 {
+    color: aqua; /* Цвет заголовка */
+    font-size: 24pt; /* Размер шрифта в пунктах */
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal; /* Нормальное начертание текста  */
+  }
 
 h4 {
       color: "red"
