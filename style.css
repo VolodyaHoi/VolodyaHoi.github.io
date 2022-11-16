@@ -9,3 +9,9 @@ h1 {
 h4 {
       color: "red"
 }
+
+font {
+    color: limegreen;
+    margin-left: 10px; /* Отступ слева в пикселах */
+    margin-right: 10px; /* Отступ справа в пикселах */
+  }
